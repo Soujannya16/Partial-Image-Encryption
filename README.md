@@ -2,7 +2,7 @@
 
 Skills used- Deep Learning, Python
 
-** The main purpose of the project is to build a system that will ensure quick yet reliable and secure transfer of image
+** The main purpose of the project is to build a system that will ensure quick yet reliable and secure transfer of image**
 
 ## 1.1 Problem Statement
 
