@@ -12,9 +12,9 @@ Encrypting a part of the image called ROI, such that it makes the total image un
 In this project, we have detected the object using YOLO deep learning model, and encrypted using a substitution model. The flowchart is described in the report.
 
 ## 1.3 How to run
--Download the cfg and weights from https://pjreddie.com/darknet/yolo/ of any version.
--Put these 2 files, yolo.txt file, pie.ipnyb and the image you want to parially encrypt in the same folder.
--Run it with jupyter notebook or vscode or anything similar.
+- Download the cfg and weights from https://pjreddie.com/darknet/yolo/ of any version.
+- Put these 2 files, yolo.txt file, pie.ipnyb and the image you want to parially encrypt in the same folder.
+- Run it with jupyter notebook or vscode or anything similar.
 
 ## 1.4 Future Scope
 This can be applied to videos as well using this method for each frames. This could be used in encrypting faces and objects in videos.
